@@ -24,11 +24,12 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="-1431">
+              <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
               <folding>
-                <marker date="1489691805000" expanded="true" signature="1499:1529" ph="INSERT INTO ${$tabulka}... " />
-                <marker date="1489691805000" expanded="true" signature="2798:2807" ph="..." />
+                <marker date="1489706654000" expanded="true" signature="4880:4923" ph="SELECT FROM ${$select}... " />
+                <marker date="1489706654000" expanded="true" signature="5496:5526" ph="INSERT INTO ${$tabulka}... " />
+                <marker date="1489706654000" expanded="true" signature="6304:6313" ph="..." />
               </folding>
             </state>
           </provider>
@@ -145,12 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489688155702</updated>
-      <workItem from="1489688158129" duration="3583000" />
+      <workItem from="1489688158129" duration="12468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3583000" />
+    <option name="totallyTimeSpent" value="12468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -202,11 +203,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="-1431">
+          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
           <folding>
-            <marker date="1489691805000" expanded="true" signature="1499:1529" ph="INSERT INTO ${$tabulka}... " />
-            <marker date="1489691805000" expanded="true" signature="2798:2807" ph="..." />
+            <marker date="1489706654000" expanded="true" signature="4880:4923" ph="SELECT FROM ${$select}... " />
+            <marker date="1489706654000" expanded="true" signature="5496:5526" ph="INSERT INTO ${$tabulka}... " />
+            <marker date="1489706654000" expanded="true" signature="6304:6313" ph="..." />
           </folding>
         </state>
       </provider>
